@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #eeeeee;
+    background: #afa22c;
 }
 
 .navbar {
@@ -41,8 +41,8 @@ td {
 }
 
 h1 {
-    text-align: center;
-    border: 3px solid green;
+    text-align: left;
+    border: 3px dashed red;
     margin: 20px;
     padding: 10px;
 }
@@ -51,17 +51,17 @@ h1 {
     text-decoration: none;
 }
 .navbar {
-    background: green;
-    padding: 15px;
+    background: red;
+    padding: 10px;
     display: flex;
     justify-content: space-around;
 }
 
 #content {
-    background: #ffffff;
+    background: #726f6f;
     margin-top: 30px;
     margin-left: 80px;
     margin-right: 80px;
     padding: 15px;
-    font-size: small;
+    font-size: big;
 }
